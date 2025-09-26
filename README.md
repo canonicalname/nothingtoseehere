@@ -5,7 +5,7 @@ I really like the style of these cases which date back to around 2007. They have
 
 ### Sourcing a near-20 year old case
 I was able to purchase my 'bare' case from [Clyde Computers](https://clydecomputers.co.uk/search?q=ultra+24). It arrived in great condition...
-<table><tr><td><img src="assets/images/case1.png" align="center" width="300" ></a></td><td><img src="assets/images/case2.png" align="center" height="460" ></a></td></tr></table>
+<table><tr><td><img src="/assets/images/case1.png" align="center" width="300" ></a></td><td><img src="/assets/images/case2.png" align="center" height="460" ></a></td></tr></table>
 
 Note that as a 'bare' case it's missing the front I/O panel. More on that later. Inside, the case was empty but did retain a hard drive cage.
 
