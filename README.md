@@ -5,16 +5,16 @@ I really like the style of these cases which date back to around 2007. They have
 
 ### Sourcing a near-20 year old case
 I was able to purchase my 'bare' case from [Clyde Computers](https://clydecomputers.co.uk/search?q=ultra+24). It arrived in great condition...
-<table><tr><td><a href="url"><img src="assets/images/case1.png" align="center" width="300" ></a></td><td><a href="url"><img src="assets/images/case2.png" align="center" height="460" ></a></td></tr></table>
+<table><tr><td><img src="assets/images/case1.png" align="center" width="300" ></a></td><td><img src="assets/images/case2.png" align="center" height="460" ></a></td></tr></table>
 
 Note that as a 'bare' case it's missing the front I/O panel. More on that later. Inside, the case was empty but did retain a hard drive cage.
 
 ### Readying the interior
-<table><tr><td><a href="url"><img src="assets/images/IMG_7204_Medium.jpeg" align="center" width="300" ></a></td></tr></table>
+<table><tr><td><img src="assets/images/IMG_7204_Medium.jpeg" align="center" width="300" ></a></td></tr></table>
 
 Removing this cage did require me to drill out a number of rivets. This took a while but once I found the right HSS drillbit it was pretty straightforward. Note the use of masking tape to avoid scratching the paint during the process.
 
-<table><tr><td><a href="url"><img src="assets/images/IMG_7205_Medium.jpeg" align="center" width="300" ></a></td></tr></table>
+<table><tr><td><img src="assets/images/IMG_7205_Medium.jpeg" align="center" width="300" ></a></td></tr></table>
 
 ### The build
 I started by fitting some fans. After some measuring I went with:
@@ -23,11 +23,11 @@ I started by fitting some fans. After some measuring I went with:
 - Noctua NF-A12x25 G2 PWM - 120mm exhaust for the rear, along with...
 - Corsair HXi Series HX1000i - power supply and other exhaust
 
-<table><tr><td><a href="url"><img src="assets/images/IMG_7221_Medium.jpeg" align="center" width="300" ></a></td><td><a href="url"><img src="assets/images/IMG_7222_Medium.jpeg" align="center" width="300" ></a></td></tr></table>
+<table><tr><td><img src="assets/images/IMG_7221_Medium.jpeg" align="center" width="300" ></a></td><td><img src="assets/images/IMG_7222_Medium.jpeg" align="center" width="300" ></a></td></tr></table>
 
 The original Sun Ultra 24 (as far as I can tell) shipped with a black DVD drive which doesn't quite fit with the aesthetic but in the interests of 'originality' I sourced a used drive from eBay. I was keen to get one that was plain black with no white text on it to achieve the original look.
 
-<table><tr><td><a href="url"><img src="assets/images/1083px-Sunultra24.jpeg" align="center" height="460" ></a></td></tr></table>
+<table><tr><td><img src="assets/images/1083px-Sunultra24.jpeg" align="center" height="460" ></a></td></tr></table>
 
 [Jainux - Own work, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=4906987)
 
@@ -35,7 +35,7 @@ After that, I built up the motherboard and did a test fit. All of the mounting p
 
 ### Finishing up
 The case didn't come with motherboard screws and so I had to source those separately. Then I could install the motherboard, GPU and connect the requisite cables. I ended up with this and it POSTed without any issues.
-<table><tr><td><a href="url"><img src="assets/images/IMG_7239_Medium.jpeg" align="center" width="300" ></a></td></tr></table>
+<table><tr><td><img src="assets/images/IMG_7239_Medium.jpeg" align="center" width="300" ></a></td></tr></table>
 
 I went for:
 - Asus GeForce RTX 5080 Prime OC 16GB GDDR7 PCI-Express Graphics Card
@@ -47,7 +47,7 @@ I went for:
 
 The next challenge was the lack of the I/O panel. Unfortunately this also houses the power button as well as firewire and USB sockets. If I had it there are pin-outs online which allow it to be used. However without it I added some microswitches for power and reset buttons along with some LEDs and had them exit a Firewire port as a short-term solution.
 
-<table><tr><td><a href="url"><img src="assets/images/IMG_7240_Medium.jpeg" align="center" height="480" ></a></td></tr></table>
+<table><tr><td><img src="assets/images/IMG_7240_Medium.jpeg" align="center" height="480" ></a></td></tr></table>
 
 I plan to 3D print a new front-panel to make the power button, USB-A sockets and LEDs work as they should and to add USB-C to the firewire slots.
 
