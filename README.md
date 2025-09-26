@@ -38,12 +38,12 @@ The case didn't come with motherboard screws and so I had to source those separa
 <table><tr><td><img src="assets/images/IMG_7239_Medium.jpeg" align="center"></td></tr></table>
 
 I went for:
-- Asus GeForce RTX 5080 Prime OC 16GB GDDR7 PCI-Express Graphics Card
-- AMD Ryzen 7 9800X3D Eight Core 5.20GHz (Socket AM5) Processor
-- G.Skill Trident Z5 Neo EXPO 32GB (2x16GB) DDR5 PC5-48000C30 6000MHz Dual Channel memory
-- Crucial T705 1TB NVMe PCIe Gen5 M.2 Solid State Drive
-- Asus PRIME X870-P (Socket AM5) DDR5 ATX Motherboard
-- Noctua NH-D15 G2 LBC Next Gen Dual Tower CPU Cooler
+- Asus GeForce RTX 5080 Prime OC 16GB Graphics Card
+- AMD Ryzen 7 9800X3D Eight Core 5.20GHz Processor
+- G.Skill Trident Z5 Neo EXPO (2x16GB) DDR5 6000MHz Dual Channel memory
+- Crucial T705 1TB NVMe PCIe M.2 Solid State Drive
+- Asus PRIME X870-P DDR5 ATX Motherboard
+- Noctua NH-D15 G2 LBC Dual Tower CPU Cooler
 
 The next challenge was the lack of the I/O panel. Unfortunately this also houses the power button as well as firewire and USB sockets. If I had it there are pin-outs online which allow it to be used. However without it I added some microswitches for power and reset buttons along with some LEDs and had them exit a Firewire port as a short-term solution.
 
